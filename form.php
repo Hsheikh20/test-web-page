@@ -1,5 +1,5 @@
 <?php
-if(){}else{// show data
+if()}else{// show data
 
 }else{//show form
   echo ' 
